@@ -1,0 +1,30 @@
+{
+  "name": "gulp-php-server",
+  "version": "1.0.0",
+  "description": "running php using browser-sync and gulp-connect-php",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdsa/gulp-php-server.git"
+  },
+  "keywords": [
+    "php",
+    "gulp",
+    "browser-sync",
+    "server"
+  ],
+  "author": "abdsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdsa/gulp-php-server/issues"
+  },
+  "homepage": "https://github.com/abdsa/gulp-php-server#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.1",
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "0.0.7"
+  }
+}
